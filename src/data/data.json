@@ -1,0 +1,297 @@
+[
+    {
+        "title": "IMAGES",
+        "links": [
+            {
+                "image": "/squoosh.png",
+                "href": "https://squoosh.app/",
+                "title": "Optimize img"
+            },
+            {
+                "image": "https://jakearchibald.github.io/svgomg/imgs/icon.png",
+                "href": "https://jakearchibald.github.io/svgomg/",
+                "title": "Optimize svg"
+            },
+            {
+                "image": "/iloveimg.png",
+                "href": "https://www.iloveimg.com/es/ampliar-imagen",
+                "title": "Scale img"
+            },
+            {
+                "image": "https://www.photoroom.com/favicons/favicon.ico",
+                "href": "https://www.photoroom.com/es/herramientas/eliminador-de-fondos",
+                "title": "Remove BG"
+            },
+            {
+                "image": "https://rounder.pics/assets/img/ui/round-image.webp",
+                "href": "https://rounder.pics/es/crop-round-image/",
+                "title": "Round img"
+            },
+            {
+                "image": "https://pinetools.com/files/favicon.ico",
+                "href": "https://pinetools.com/es/invertir-colores",
+                "title": "Invert colors"
+            },
+            {
+                "image": "https://www.online-convert.com/favicon.ico",
+                "href": "https://imagen.online-convert.com/es/convertir-a-ico",
+                "title": "Convert ICO"
+            }
+        ]
+    },
+    {
+        "title": "GIFS",
+        "links": [
+            {
+                "image": "https://www.unscreen.com/favicon-32x32.png",
+                "href": "https://www.unscreen.com/upload",
+                "title": "Remove BG"
+            }
+        ]
+    },
+    {
+        "title": "FILMING",
+        "links": [
+            {
+                "image": "tijeras.webp",
+                "href": "https://online-video-cutter.com/es/",
+                "title": "Video cutter"
+            },
+            {
+                "image": "yarn.PNG",
+                "href": "https://getyarn.io/",
+                "title": "Yarn clips"
+            }
+        ]
+    },
+    {
+        "title": "CSS",
+        "links": [
+            {
+                "image": "/gradientes.ico",
+                "href": "https://www.gradientmagic.com/",
+                "title": "Gradientes"
+            },
+            {
+                "image": "https://bennettfeely.com/clippy/pics/favicon.png",
+                "href": "https://bennettfeely.com/clippy/",
+                "title": "CSS shapes"
+            },
+            {
+                "image": "calc.png",
+                "href": "https://specificity.keegan.st/",
+                "title": "Specificity calc"
+            },
+            {
+                "image": "unit.png",
+                "href": "https://whatunit.com/",
+                "title": "What unit"
+            },
+            {
+                "image": "aos.webp",
+                "href": "https://michalsnik.github.io/aos/",
+                "title": "AOS animate"
+            },
+            {
+                "image": "https://getcssscan.com/favicon-32x32.png",
+                "href": "https://getcssscan.com/css-box-shadow-examples",
+                "title": "Box shadow"
+            }
+        ]
+    },
+    {
+        "title": "TOOLS",
+        "links": [
+            {
+                "image": "https://www.wix.com/favicon.ico",
+                "href": "https://www.wix.com/tools/qr-code-generator/?refferal=successLoggedin",
+                "title": "Create QR"
+            },
+            {
+                "image": "https://textos-legales.edgartamarit.com/wp-content/themes/SEOXtreme-child/assets/svg/header-logo_v1.0.svg",
+                "href": "https://textos-legales.edgartamarit.com/",
+                "title": "Textos legales"
+            },
+            {
+                "image": "/bundlephobia.PNG",
+                "href": "https://bundlephobia.com/",
+                "title": "Bundlephobia"
+            },
+            {
+                "image": "https://caniuse.com/img/favicon-128.png",
+                "href": "https://caniuse.com/",
+                "title": "Can I use"
+            },
+            {
+                "image": "timestamp.webp",
+                "href": "https://www.epochconverter.com/",
+                "title": "Timestamp"
+            }
+        ]
+    },
+    {
+        "title": "ICONS",
+        "links": [
+            {
+                "image": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg",
+                "href": "https://fonts.google.com/icons",
+                "title": "Google Fonts"
+            },
+            {
+                "image": "/flaticon.ico",
+                "href": "https://www.flaticon.es/https://www.flaticon.es/",
+                "title": "Flaticon"
+            },
+            {
+                "image": "https://freesets.dev/favicon.svg",
+                "href": "https://freesets.dev/",
+                "title": "Freesets"
+            },
+            {
+                "image": "https://lordicon.com/media/assets/favicon/favicon.ico",
+                "href": "https://lordicon.com/",
+                "title": "lordicon"
+            },
+            {
+                "image": "https://iconify.design/favicon.svg",
+                "href": "https://iconify.design/",
+                "title": "iconify"
+            },
+            {
+                "image": "/emoji.webp",
+                "href": "https://emojidb.org/id-emojis?utm_source=user_search",
+                "title": "Emojis"
+            },
+            {
+                "image": "https://hugeicons.com/favicon.ico",
+                "href": "https://hugeicons.com/",
+                "title": "Huge icons"
+            },
+            {
+                "image": "https://lucide.dev/favicon.ico",
+                "href": "https://lucide.dev/icons/",
+                "title": "Lucide icons"
+            },
+            {
+                "image": "https://heroicons.com/_next/static/media/favicon-32x32.2a23e45f.png",
+                "href": "https://heroicons.com/",
+                "title": "Hero icons"
+            }
+        ]
+    },
+    {
+        "title": "COMPONENTS",
+        "links": [
+            {
+                "image": "hamburger.png",
+                "href": "https://jonsuh.com/hamburgers/",
+                "title": "Hamburgers"
+            },
+            {
+                "image": "https://uiball.com/favicon.svg",
+                "href": "https://uiball.com/",
+                "title": "Loaders"
+            },
+            {
+                "image": "https://react.keepdesign.io/favicon.ico",
+                "href": "https://react.keepdesign.io/",
+                "title": "Keep React"
+            }
+        ]
+    },
+    {
+        "title": "HTML",
+        "links": [
+            {
+                "image": "https://allthetags.com/favicon.png",
+                "href": "https://allthetags.com/",
+                "title": "HTML tags"
+            }
+        ]
+    },
+    {
+        "title": "REACT",
+        "links": [
+            {
+                "image": "https://mhnpd.github.io/react-loader-spinner/img/favicon.ico",
+                "href": "https://mhnpd.github.io/react-loader-spinner/docs/intro/",
+                "title": "Spinners"
+            },
+            {
+                "image": "input.png",
+                "href": "https://originui.com/",
+                "title": "Inputs"
+            },
+            {
+                "image": "https://static-production.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png",
+                "href": "https://www.npmjs.com/package/react-movable",
+                "title": "react-movable"
+            },
+            {
+                "image": "https://www.framer.com/images/favicons/favicon.png",
+                "href": "https://www.framer.com/motion/",
+                "title": "Framer motion"
+            }
+        ]
+    },
+    {
+        "title": "SEO",
+        "links": [
+            {
+                "image": "gtmetrics.PNG",
+                "href": "https://gtmetrix.com/",
+                "title": "Performance"
+            }
+        ]
+    },
+    {
+        "title": "CYBERSECURITY",
+        "links": [
+            {
+                "image": "https://web-check.xyz/favicon.svg",
+                "href": "https://web-check.xyz/",
+                "title": "WebCheck"
+            }
+        ]
+    },
+    {
+        "title": "LEARNING",
+        "links": [
+            {
+                "image": "https://learngitbranching.js.org/assets/favicon.ico",
+                "href": "https://learngitbranching.js.org/?locale=es_ES",
+                "title": "Git branching"
+            },
+            {
+                "image": "https://roadmap.sh/manifest/favicon.ico",
+                "href": "https://roadmap.sh/",
+                "title": "Roadmaps"
+            },
+            {
+                "image": "https://lenguajecss.com/assets/icons/logos/css-grenade.webp",
+                "href": "https://lenguajecss.com/",
+                "title": "CSS Manz"
+            },
+            {
+                "image": "https://www.gstatic.com/devrel-devsite/prod/v26b300f563a53ffacd00cce6a8a17d6c34b57fcb0529359ecdc637e6db343c18/web/images/favicon.png",
+                "href": "https://web.dev/learn/css?hl=es",
+                "title": "web.dev"
+            }
+        ]
+    },
+    {
+        "title": "INSPIRATION",
+        "links": [
+            {
+                "image": "https://framerusercontent.com/images/z0D3A9SXHg6iTI90pfFgZ2ds03k.png",
+                "href": "https://www.dark.design/",
+                "title": "Dark design"
+            },
+            {
+                "image": "https://assets.awwwards.com/assets/images/favicon.svg",
+                "href": "https://www.awwwards.com/",
+                "title": "awwwards"
+            }
+        ]
+    }
+]
