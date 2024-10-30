@@ -96,6 +96,11 @@
                 "image": "https://getcssscan.com/favicon-32x32.png",
                 "href": "https://getcssscan.com/css-box-shadow-examples",
                 "title": "Box shadow"
+            },
+            {
+                "image": "https://www.transition.style/favicon.png",
+                "href": "https://www.transition.style/",
+                "title": "Transitions"
             }
         ]
     },
