@@ -1,0 +1,46 @@
+---
+// src/pages/sections/[section].astro
+import LinkSection from "@components/LinkSection.astro";
+import data from "@data/data.json";
+import Layout from "@layouts/Layout.astro";
+
+// Genera las rutas estáticas para cada sección
+export async function getStaticPaths() {
+    return data.map((section) => ({
+        params: { section: section.title.toLowerCase().replace(/\s+/g, "-") },
+    }));
+}
+
+// Obtén el parámetro de la URL
+const { section } = Astro.params;
+
+// Filtra la sección actual
+const currentSection = data.find(
+    (s) => s.title.toLowerCase().replace(/\s+/g, "-") === section,
+);
+
+if (!currentSection) throw new Error("Sección no encontrada");
+---
+
+<Layout title={currentSection.title}>
+    <LinkSection title={currentSection.title} links={currentSection.links} />
+    <a
+        href="/"
+        class="fixed bottom-5 right-5 m-4 w-24 h-12 rounded-lg shadow-lg transition-transform transform
+                           hover:scale-105"
+        style="background: linear-gradient(135deg, #7a7a7a, #000000);"
+    >
+        <button
+            class="flex items-center justify-center w-full h-full bg-transparent
+                               rounded-lg transition duration-300 ease-in-out
+                               hover:bg-white hover:bg-opacity-30 focus:outline-none"
+        >
+            <h2
+                transition:name={section.title}
+                class="text-center text-lg font-bold font-mono"
+            >
+                Return
+            </h2>
+        </button>
+    </a>
+</Layout>

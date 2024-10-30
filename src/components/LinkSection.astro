@@ -1,10 +1,21 @@
 ---
-const { title } = Astro.props;
+// Recibimos el título y los links como propiedades
+const { title, links } = Astro.props;
+import Link from "@components/Link.astro";
 ---
 
 <section class="border rounded-3xl p-5">
-    <h2 class="text-center text-2xl font-bold item">{title}</h2>
+    <h2
+        transition:name={title}
+        class="text-center text-2xl font-bold font-mono"
+    >
+        {title}
+    </h2>
     <div class="flex flex-row flex-wrap justify-center gap-3">
-        <slot />
+        {
+            links.map((link) => (
+                <Link image={link.image} href={link.href} title={link.title} />
+            ))
+        }
     </div>
 </section>

@@ -53,12 +53,12 @@
         "title": "FILMING",
         "links": [
             {
-                "image": "tijeras.webp",
+                "image": "/tijeras.webp",
                 "href": "https://online-video-cutter.com/es/",
                 "title": "Video cutter"
             },
             {
-                "image": "yarn.PNG",
+                "image": "/yarn.PNG",
                 "href": "https://getyarn.io/",
                 "title": "Yarn clips"
             }
@@ -78,17 +78,17 @@
                 "title": "CSS shapes"
             },
             {
-                "image": "calc.png",
+                "image": "/calc.png",
                 "href": "https://specificity.keegan.st/",
                 "title": "Specificity calc"
             },
             {
-                "image": "unit.png",
+                "image": "/unit.png",
                 "href": "https://whatunit.com/",
                 "title": "What unit"
             },
             {
-                "image": "aos.webp",
+                "image": "/aos.webp",
                 "href": "https://michalsnik.github.io/aos/",
                 "title": "AOS animate"
             },
@@ -123,7 +123,7 @@
                 "title": "Can I use"
             },
             {
-                "image": "timestamp.webp",
+                "image": "/timestamp.webp",
                 "href": "https://www.epochconverter.com/",
                 "title": "Timestamp"
             }
@@ -183,7 +183,7 @@
         "title": "COMPONENTS",
         "links": [
             {
-                "image": "hamburger.png",
+                "image": "/hamburger.png",
                 "href": "https://jonsuh.com/hamburgers/",
                 "title": "Hamburgers"
             },
@@ -218,7 +218,7 @@
                 "title": "Spinners"
             },
             {
-                "image": "input.png",
+                "image": "/input.png",
                 "href": "https://originui.com/",
                 "title": "Inputs"
             },
@@ -238,7 +238,7 @@
         "title": "SEO",
         "links": [
             {
-                "image": "gtmetrics.PNG",
+                "image": "/gtmetrics.PNG",
                 "href": "https://gtmetrix.com/",
                 "title": "Performance"
             }
